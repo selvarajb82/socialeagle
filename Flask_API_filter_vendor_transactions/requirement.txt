@@ -1,0 +1,3 @@
+Flask API Project - will help us filter specific vendor combination records from the source 
+Vendor transaction data and create a separate file for user validation. 
+This saves lot of time in splitting, filtering, transformation & validation for user groups.
