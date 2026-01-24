@@ -1,0 +1,5 @@
+invoice_id,supplier,business_unit,invoice_amount
+INV001,ABC Corp,US01,1200
+INV002,,US02,500
+INV003,XYZ Ltd,,0
+INV004,LMN Inc,US01,800
