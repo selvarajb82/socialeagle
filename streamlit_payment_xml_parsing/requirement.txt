@@ -1,0 +1,18 @@
+✅ Accepts .xml AND .txt (XML content inside .txt is totally fine)
+
+✅ Parses any ISO 20022 payment XML
+
+✅ Extracts PPR / Payment Info
+
+✅ Builds Transaction sheet + TOTAL
+
+✅ Builds Summary sheet
+
+✅ Uses openpyxl (no xlsxwriter error)
+
+✅ Is colorful
+
+✅ Has Excel download button
+
+
+
