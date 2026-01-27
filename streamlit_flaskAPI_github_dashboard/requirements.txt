@@ -1,0 +1,12 @@
+# Flask Backend Dependencies
+Flask==3.0.0
+flask-cors==4.0.0
+requests==2.31.0
+
+# Streamlit Frontend Dependencies
+streamlit==1.29.0
+pandas==2.1.4
+plotly==5.18.0
+
+# Optional but recommended
+python-dotenv==1.0.0
